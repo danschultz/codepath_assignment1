@@ -16,7 +16,7 @@ Completed user stories:
  
 Notes:
 
-Spent extra time on the movie details page to the autosize synopsis text label and get scrolling working with a `UIScrollView`.
+Spent extra time on the movie details page to autosize the synopsis text label and get scrolling working with a `UIScrollView`.
 
 Walkthrough of all user stories:
 
